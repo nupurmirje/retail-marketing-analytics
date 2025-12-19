@@ -1,0 +1,10 @@
+
+PROJECT STATUS: COMPLETED
+
+Deliverables:
+- Data Cleaning
+- EDA
+- RFM Analysis
+- Customer Segmentation
+- KPI Framework
+- Executive Report
