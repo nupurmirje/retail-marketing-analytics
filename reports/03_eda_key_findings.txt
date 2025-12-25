@@ -1,0 +1,4 @@
+KEY FINDINGS FROM EDA
+================================================================================
+Top revenue category: Electronics
+Repeat customer rate: 96.27%
